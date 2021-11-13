@@ -1,0 +1,13 @@
+name: madlibs-play
+title: madlibs-play
+username:
+account: bretsw
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5115709
+bundleId: 5246818
+url: https://bretsw.shinyapps.io/madlibs-play/
+when: 1636782504.42642
+lastSyncTime: 1636782504.42643
+asMultiple: FALSE
+asStatic: FALSE
